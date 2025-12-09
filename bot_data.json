@@ -1,0 +1,25 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Bot yasab berish 🤖",
+      "description": "Botni ihtiyoringizga qarab yasab beramiz, bot ni serverga ozingiz qoyasiz!"
+    },
+    {
+      "id": 2,
+      "name": "Bot proekti",
+      "description": "Botni yozib ozimiz kodlab, o'zimiz boshqaramiz va servergaham ozimiz qoyamiz"
+    },
+    {
+      "id": 3,
+      "name": "Ihtiyori serverga joylab beramiz🧠",
+      "description": "Siz hohlagan serverga qoyib beramiz"
+    }
+  ],
+  "orders": [],
+  "contacts": {
+    "telegram": "https://t.me/devteamcontact",
+    "phone": "+998 99 123 45 67",
+    "email": "info@devteam.uz"
+  }
+}
